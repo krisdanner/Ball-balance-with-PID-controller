@@ -33,11 +33,11 @@ SENSOR_OFFSET = 2.0; // Sensor offset
 BRIDGE_LENGTH = 19.0; // Total length of bridge in cm
 SETPOINT = 8.0; // Desired position of the ball (cm)
 
---
+---
 
 Português: 
 
-## Ponte de equilíbrio de bola com controlador PID
+# Ponte de equilíbrio de bola com controlador PID
 Projeto de ponte de equilíbrio de bola com controlador PID no Arduino
 
 A plataforma de experimento foi criada com o objetivo de projetos e testes de vários
