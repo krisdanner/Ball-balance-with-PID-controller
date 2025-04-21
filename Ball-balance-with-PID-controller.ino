@@ -1,3 +1,12 @@
+/*
+#============================================================#
+# Ponte de equilíbrio de bola com controlador PID no Arduino #
+#============================================================#
+# Autor: Christian Danner Ramos de Carvalho                  #
+# Data: 21/04/2025                                           #
+#============================================================#
+*/
+
 #include <Servo.h>
 
 // Servo e pinos do sensor
