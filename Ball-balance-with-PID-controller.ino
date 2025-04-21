@@ -13,6 +13,7 @@ Servo servo;
 
 // Definição física do sistema
 const double SENSOR_OFFSET = 2.0;       // Distância entre o sensor e a borda da ponte
+const double PONTE_COMPRIMENTO = 19.0;  // Comprimento total da ponte em cm
 const double SETPOINT = 8.0;            // Posição desejada da bolinha (cm)
 
 // Variáveis PID
