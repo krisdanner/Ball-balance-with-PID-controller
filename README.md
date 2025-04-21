@@ -61,11 +61,11 @@ centro da ponte.
 ## Parâmetros do Sistema 
 
 Ganhos do PID:
-- KP 6.0 
-- KI 0.04
-- KD 11.0
+- KP = 6.0 
+- KI = 0.04
+- KD = 11.0
 
 Definição física do sistema:
-SENSOR_OFFSET = 2.0;       // Offset do sensor
-PONTE_COMPRIMENTO = 19.0;  // Comprimento total da ponte em cm
-SETPOINT = 8.0;            // Posição desejada da bolinha (cm)
+- SENSOR_OFFSET = 2.0       (Offset do sensor)
+- PONTE_COMPRIMENTO = 19.0  (Comprimento total da ponte em cm)
+- SETPOINT = 8.0            (Posição desejada da bolinha em cm)
