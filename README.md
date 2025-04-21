@@ -24,14 +24,14 @@ center of the bridge.
 ## System parameters
 
 PID gains:
-KP 6.0
-KI 0.04
-KD 11.0
+- KP = 6.0
+- KI = 0.04
+- KD = 11.0
 
 Physical definition of the system:
-SENSOR_OFFSET = 2.0; // Sensor offset
-BRIDGE_LENGTH = 19.0; // Total length of bridge in cm
-SETPOINT = 8.0; // Desired position of the ball (cm)
+- SENSOR_OFFSET = 2.0   (Sensor offset)
+- BRIDGE_LENGTH = 19.0  (Total length of bridge in cm)
+- SETPOINT = 8.0        (Desired position of the ball in cm)
 
 ---
 
